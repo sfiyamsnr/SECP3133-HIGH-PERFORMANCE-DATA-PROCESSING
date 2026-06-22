@@ -19,7 +19,7 @@ Key personal and technical takeaways include:
 
 ## 🛠️ Repository Contents & Benchmarking
 
-| Category | Core Focus Area & Architectural Metrics | Repository Link |
+| Category | Repository Link |
 | :--- | :--- | :--- |
 | **Assignment 1**  | [View Folder](https://github.com/sfiyamsnr/SECP3133-HIGH-PERFORMANCE-DATA-PROCESSING/blob/main/HPDP%20(1).pdf) |
 | **Assignment 2**  | [View Folder](https://github.com/sean-seah/HPDP/tree/main/2526/assignment/A2/Group%20taktahulahu) |
